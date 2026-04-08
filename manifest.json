@@ -1,0 +1,37 @@
+{
+  "name": "KASHI — काशी — The Eternal City · Ultimate Edition",
+  "short_name": "काशी Ultimate",
+  "description": "काशी — वाराणसी — The Eternal City. World-class ultra-premium PWA guide to Varanasi. Designed by Shivraj Sharma.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#020100",
+  "theme_color": "#D4A017",
+  "orientation": "any",
+  "lang": "hi",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "travel",
+    "lifestyle",
+    "education"
+  ],
+  "screenshots": [
+    {
+      "src": "images/hero1.png",
+      "sizes": "1376x768",
+      "type": "image/png"
+    }
+  ]
+}
